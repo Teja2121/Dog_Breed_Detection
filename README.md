@@ -77,7 +77,7 @@ Accurate dog breed classification can have applications in veterinary medicine, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dog-breed-detection.git
+   git clone https://github.com/Teja2121/Dog-Breed-Detection.git
    ```
 2. Install the required dependencies:
    ```bash

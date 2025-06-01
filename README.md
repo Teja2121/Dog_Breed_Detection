@@ -1,6 +1,6 @@
 # Dog Breed Detection Using Deep Learning
 
-This project builds a robust deep learning pipeline to classify images of dogs into 60 unique breeds. Using a dataset of over 10,000 images, the project leverages transfer learning with ResNet50V2 to achieve an accuracy of 81% on the test dataset.
+This project builds a robust deep learning pipeline to classify images of dogs into 60 unique breeds. Using a dataset of over 10,000 images, the project leverages transfer learning with ResNet50V2 to achieve an accuracy of nearly 81% on the test dataset.
 
 ---
 
